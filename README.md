@@ -2,4 +2,4 @@
 ---
 Live:
 ---
-https://nishachawla18github.io/calculator/
+https://nishachawla18.github.io/calculator/
